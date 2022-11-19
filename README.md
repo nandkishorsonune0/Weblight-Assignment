@@ -1,7 +1,7 @@
 # Weblight Assignment
 
 # Technologies Used:
-JavaScript
-React (hooks)
-Redux 
+JavaScript, 
+React (hooks), 
+Redux, 
 MUI
